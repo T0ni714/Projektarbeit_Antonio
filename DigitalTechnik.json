@@ -1,0 +1,107 @@
+{
+  "thema": "Digitaltechnik",
+  "beschreibung": "Grundlagen der Digitaltechnik und Logik",    
+  "fragen": [
+    {
+      "frage": "Wie viele Bits hat ein Byte?",
+      "antworten": ["4", "8", "16", "32"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Welche Zahl entspricht in Binär 1010?",
+      "antworten": ["8", "10", "12", "15"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Welche Art von Logikgatter gibt es?",
+      "antworten": ["UND, ODER, NICHT", "PLUS, MINUS, MAL", "HOCH, RUNTER, STOP", "START, PAUSE, RESET"],
+      "korrekt": 0
+    },
+    {
+      "frage": "Was macht ein NOT-Gatter?",
+      "antworten": ["Gibt das Eingangssignal weiter", "Invertiert das Eingangssignal", "Addiert zwei Signale", "Speichert das Signal"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Welche Basis hat das Binärsystem?",
+      "antworten": ["2", "8", "16", "10"],
+      "korrekt": 0
+    },
+    {
+      "frage": "Wie nennt man 2^10 Bytes?",
+      "antworten": ["Kilobyte", "Megabyte", "Gigabyte", "Terabyte"],
+      "korrekt": 0
+    },
+    {
+      "frage": "Welche Pegel nutzt TTL-Logik typischerweise?",
+      "antworten": ["0V und 3.3V", "0V und 5V", "1V und 12V", "−5V und 5V"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Welche Funktion hat ein Flip-Flop?",
+      "antworten": ["Teilt eine Frequenz", "Speichert 1 Bit", "Multipliziert Signale", "Wandelt analog in digital"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Wie wird die kleinste digitale Information genannt?",
+      "antworten": ["Byte", "Nibble", "Bit", "Word"],
+      "korrekt": 2
+    },
+    {
+      "frage": "Was ist ein Multiplexer?",
+      "antworten": ["Ein Logikgatter", "Ein Bauteil zum Umschalten zwischen Signalen", "Ein Speicherelement", "Ein Verstärker"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Ein AND-Gatter gibt 1 aus, wenn ...",
+      "antworten": ["mindestens ein Eingang 1 ist", "genau ein Eingang 1 ist", "alle Eingänge 1 sind", "kein Eingang 1 ist"],
+      "korrekt": 2
+    },
+    {
+      "frage": "Welches Zahlensystem nutzt die Symbole 0–9 und A–F?",
+      "antworten": ["Oktal", "Hexadezimal", "Dezimal", "Binär"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Welche Bitfolge ist größer? 1001 oder 0111?",
+      "antworten": ["1001", "0111", "Beide sind gleich", "Nicht bestimmbar"],
+      "korrekt": 0
+    },
+    {
+      "frage": "Was beschreibt die Wahrheitstabelle?",
+      "antworten": ["Die Stromaufnahme eines ICs", "Das Verhalten eines Logikgatters", "Die Temperatur eines Prozessors", "Die Größe eines Speichers"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Wie viele Zustände hat ein Bit?",
+      "antworten": ["1", "2", "4", "8"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Wofür steht ADC?",
+      "antworten": ["Analog-Digital-Converter", "Array-Digital-Counter", "Auto-Drive-Controller", "Advanced Data Cache"],
+      "korrekt": 0
+    },
+    {
+      "frage": "Ein Register speichert ...",
+      "antworten": ["mehrere Bits", "nur 1 Bit", "eine ganze Datei", "ein Programm"],
+      "korrekt": 0
+    },
+    {
+      "frage": "Welche Schaltung erzeugt Rechtecksignale?",
+      "antworten": ["Oszillator", "Filter", "Verstärker", "Gleichrichter"],
+      "korrekt": 0
+    },
+    {
+      "frage": "Wie nennt man den kleinsten adressierbaren Speicherblock?",
+      "antworten": ["Sektor", "Byte", "Block", "Register"],
+      "korrekt": 1
+    },
+    {
+      "frage": "Welche Darstellung ist kompakter?",
+      "antworten": ["Binär", "Dezimal", "Hexadezimal", "Oktal"],
+      "korrekt": 2
+    }
+  ]
+}
+
